@@ -7,7 +7,7 @@
 
 <body>
   <h1>Yury Herashchanka</h1>
-  <br>
+  <hr>
   <h2>Contacts</h2>
   <ul>
     <li><b>Location:</b> Minsk, Belarus</li>
@@ -34,19 +34,21 @@
   
   <h2>Code Example</h2>
   <div class="code">
-    function findUniq(arr) {
-      for (let i = 0; i < arr.length - 1; i++) {
-        if (arr[i] != arr[i + 1]) {
-          if (i == 0 && (arr[1] == arr[2])) {
-            return arr[0];
+    <pre>
+      function findUniq(arr) {
+        for (let i = 0; i < arr.length - 1; i++) {
+          if (arr[i] != arr[i + 1]) {
+            if (i == 0 && (arr[1] == arr[2])) {
+              return arr[0];
+            }
+            if (i == 0 && (arr[1] != arr[2])) {
+              return arr[1];
+            }
+            return arr[i + 1];
           }
-          if (i == 0 && (arr[1] != arr[2])) {
-            return arr[1];
-          }
-          return arr[i + 1];
         }
       }
-    }
+    </pre>
   </div>
   
   <h2>Experience</h2>
@@ -57,6 +59,9 @@
   <h2>English</h2>
   <b>B1+</b> (Studied English in courses at the House of Officers for 2 years.)
   
+
+
+
   <img src="https://avatars.githubusercontent.com/u/11501370?s=280&v=4" alt="rs.school">
 </body>
 
