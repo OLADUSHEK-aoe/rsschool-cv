@@ -1,6 +1,6 @@
 # Yury Herashchanka
 _______________________________
-### Contacts
+## Contacts
 * __Location:__ Minsk, Belarus
 * __Phone:__ +375 29 3851489
 * __E-mail:__ yg1995@bk.ru
@@ -8,16 +8,19 @@ _______________________________
 * __Discord:__ OLADUSHEK (@OLADUSHEK-aoe)
 * __Skype:__ kotvskot9
 * __Telegram:__ [oladushek_yura](https://t.me/oladushek_yura)
-### About me
+
+## About me
 I want to become a professional web developer. Currently learning Front-End Development in RSSchool. 
 I' good at mathematics and algorithms. Having a passion for teaching.
-### Skills
+
+## Skills
 * HTML
 * CSS
 * JavaScript
 * Git
 * C#
-### Code Example
+
+## Code Example
 ```
 function findUniq(arr) {
   for (let i = 0; i < arr.length - 1; i++) {
@@ -33,9 +36,13 @@ function findUniq(arr) {
   }
 }
 ```
-### Experience
-### Education
+
+## Experience
+
+## Education
 Belarusian State University of Informatics and Radioelectronics, Faculty of Computer Systems and Networks, majoring in "Information Technology Software" full-time education on a budget. Completed 4 out of 5 courses. Incomplete higher education.
-### English
+
+## English
 __B1+__ (Studied English in courses at the House of Officers for 2 years.)
-![rs.school](https://app.rs.school/static/images/logo-rsschool3.png)
+
+![rs.school](https://avatars.githubusercontent.com/u/11501370?s=280&v=4)
